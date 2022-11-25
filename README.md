@@ -8,3 +8,6 @@ Personally created and publicly available demo of framer motion on a standard Ta
 
 ### Github pages Example:
 https://apezdr.github.io/NextJS-FramerMotion-Example-Site
+
+
+Uses NextJS Layout/Template approach.
