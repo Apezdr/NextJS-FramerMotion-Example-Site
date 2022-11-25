@@ -16,7 +16,7 @@ export default function Index() {
     return (
         <>
             <Head>
-                <title>Home - Adam Drumm.com</title>
+                <title>Home - My Site.com</title>
             </Head>
             <AnimatePresence mode="wait">
                 <motion.h1 className="text-3xl font-bold pt-2 pb-6" variants={variants} initial="initial" animate="enter" exit="exit">Index Page</motion.h1>

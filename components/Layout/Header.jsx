@@ -6,7 +6,7 @@ function Header() {
     return (
         <>
             <Head>
-                <title>Loading - Adam Drumm.com</title>
+                <title>Loading - My Site.com</title>
             </Head>
             <header>
                 <NavBar />
