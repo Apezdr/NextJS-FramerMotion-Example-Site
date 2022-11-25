@@ -5,3 +5,6 @@
 
 
 Personally created and publicly available demo of framer motion on a standard Tailwind enabled theme
+
+### Github pages Example:
+https://apezdr.github.io/NextJS-FramerMotion-Example-Site
