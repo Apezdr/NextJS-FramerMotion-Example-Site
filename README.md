@@ -11,3 +11,5 @@ https://apezdr.github.io/NextJS-FramerMotion-Example-Site
 
 
 Uses NextJS Layout/Template approach.
+
+[![Visits Badge](https://badges.strrl.dev/visits/Apezdr/NextJS-FramerMotion-Example-Site)]()
